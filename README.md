@@ -53,7 +53,7 @@ Tener instalado Python 3.x y el gestor de paquetes `pip`.
 1. **Clonar el repositorio:**
 
    ```bash
-   git clone [https://github.com/tu-usuario/nombre-del-repo.git](https://github.com/tu-usuario/nombre-del-repo.git)
+   git clone [https://github.com/GuillermoMayoral/analisis-sueldos-bigdata-2025.git](https://github.com/GuillermoMayoral/analisis-sueldos-bigdata-2025.git)
 
    ```
 
